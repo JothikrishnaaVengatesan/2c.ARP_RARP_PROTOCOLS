@@ -18,11 +18,11 @@ stored.
 P
 ## PROGRAM - ARP
 ![alt text](<Screenshot 2024-10-20 121212.png>)
-## OUPUT - ARP
+## OUTPUT - ARP
 ![alt text](<Screenshot 2024-10-20 121223.png>)
 ## PROGRAM - RARP
 ![alt text](<Screenshot 2024-10-20 121233.png>)
-## OUPUT -RARP
+## OUTPUT -RARP
 ![alt text](<Screenshot 2024-10-20 121243.png>)
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
